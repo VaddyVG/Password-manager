@@ -16,7 +16,7 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/VaddyVG/Password-generator.git
+git clone https://github.com/VaddyVG/Password-manager.git
 cd password_generator
 ```
 
