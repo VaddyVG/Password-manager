@@ -35,7 +35,7 @@ pip install -r requirements.txt
 
 1. Запустите программу:
 ```bash
-python main.py
+python run.py
 ```
 
 2. Следуйте инструкциям на экране для генерации, сохранения и управления паролями.
