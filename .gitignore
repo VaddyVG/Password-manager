@@ -1,0 +1,4 @@
+*.key
+password_ecrypted.txt
+__pycache__
+venv
