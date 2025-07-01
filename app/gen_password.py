@@ -2,7 +2,7 @@ import string
 import random
 
 
-def generate_password(length, use_uppercase=True,
+def generate_password(length: int, use_uppercase=True,
                       use_digits=True, use_special=True):
     """Функция для генерации пароля"""
     characters = string.ascii_lowercase
